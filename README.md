@@ -1,4 +1,4 @@
-# Photoreceptor-specific scene statistics reveal melanopic structure in natural 1 environments (Tabandeh & Spitschan, 2026)
+# Photoreceptor-specific scene statistics reveal melanopic structure in natural environments (Tabandeh & Spitschan, 2026)
 
   - `utils/`: This folder is consists of `scenes_function` package, the collection of functions that have been used in other notebooks.
 
