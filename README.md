@@ -4,9 +4,9 @@
 
 This  Python code repository contains code, processed data, and output materials for the spatial analysis conducted in the SCENES project.
 
-If you have any comments or queries, please reach out to us at [Niloufar Tabandeh] (mailto:niloufar.tabandehsaravi@tum.de) and [Manuel Spitschan] (mailto:manuel.spitschan@tum.de).
+If you have any comments or queries, please reach out to us at [Niloufar Tabandeh](mailto:niloufar.tabandehsaravi@tum.de) and [Manuel Spitschan](mailto:manuel.spitschan@tum.de).
 
-The repository is designed to be reproducible across systems. All internal paths are relative, while large external datasets stored in EDMOND general data repository [SCENES derivatives] (https://doi.org/10.17617/3.NX2H2U). 
+The repository is designed to be reproducible across systems. All internal paths are relative, while large external datasets stored in EDMOND general data repository [SCENES derivatives](https://doi.org/10.17617/3.NX2H2U). 
 
 
 ---
@@ -62,7 +62,7 @@ conda activate spatialstatistics_env
 
 ## 4. Data preparation
 
-Due to the large size of the derivatives dataset, it is deposited in an open data repository [SCENES derivatives] (https://doi.org/10.17617/3.NX2H2U). The following steps must be completed before running the code.
+Due to the large size of the derivatives dataset, it is deposited in an open data repository [SCENES derivatives](https://doi.org/10.17617/3.NX2H2U). The following steps must be completed before running the code.
 
 1. Navigate to the data repository and download all `wp_derivative..` archive parts. Extract all parts into a single folder so that the contents are reconstructed correctly.
 
